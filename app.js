@@ -15,7 +15,7 @@ app.use(cors())
 app.use(compression())
 app.set('view engine','pug')
 app.set('views',path.join(__dirname,'views'))
-app.set('views', path.join(__dirname, 'views'));
+
 
 // Set the view engine to 'pug'
 app.set('view engine', 'pug');
