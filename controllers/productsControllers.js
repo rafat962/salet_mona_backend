@@ -30,7 +30,6 @@ exports.getOneTour = async (req,res,next)=>{
         const product = await Product.findById(req.params.id)
         product.numSearch+=1
         product.save()
-        console.log(product)
         res.status(200).json({
             statu:'success',
             product
@@ -67,13 +66,10 @@ exports.createNewTour = async (req,res,next)=>{
     try{
         const product = await Product.create(req.body)
         if(req.files){
-            console.log(2)
             if(req.files.main_img[0]){
-                console.log(req.files.main_img[0])
                 product.main_img = req.files.main_img[0].filename
             }
             if (req.files.sub_img) {
-                console.log(req.files.sub_img)
                 // Assuming sub_img is an array field in your schema
                 product.sub_img =req.files.sub_img.map(file=>file.filename)
                 
@@ -98,11 +94,9 @@ exports.updateTour = async (req,res,next)=>{
             new:true,
             runValidators:true
         })
-        console.log(1)
         if(req.files){
             if(req.files.main_img){
                 if(req.files.main_img[0]){
-                    console.log(2)
                     product.main_img = req.files?.main_img[0].filename
                 }
             }

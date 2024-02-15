@@ -72,7 +72,6 @@ bookingSchema.pre('save', async function(next) {
         user.orders.push(this._id);
         await user.save();
     } catch (err) {
-        console.error('Error updating user orders:', err);
         throw new Error('Failed to update user orders!');
     }
 

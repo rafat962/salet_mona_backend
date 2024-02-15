@@ -18,9 +18,8 @@ const products = JSON.parse(fs.readFileSync(`${__dirname}/products.json`, 'utf-8
 const importData = async () => {
 try {
     await Product.create(products);
-    console.log('Data successfully loaded!');
+
 } catch (err) {
-    console.log(err);
 }
 process.exit();
 };
@@ -31,7 +30,6 @@ const deleteData = async () => {
     await Product.deleteMany();
     console.log('Data successfully deleted!');
   } catch (err) {
-    console.log(err);
   }
   process.exit();
 };
