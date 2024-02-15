@@ -1,0 +1,597 @@
+{
+  "Colors": {
+    "-NiW5UX8SGrw1UnMK8bv": {
+      "all_products": "#739753",
+      "card": "#ead29f",
+      "category": "#1e503d",
+      "first_btns": "#ffffff",
+      "first_icon": "#1f513d",
+      "first_page": "#739753",
+      "first_page_text": "#000000",
+      "footer": "#1f513d",
+      "header": "#1f513d",
+      "one_product": "#ead29f",
+      "one_product_text": "#000000",
+      "view_details": "#1f513d"
+    }
+  },
+  "Images": {
+    "-Nin9gWcmBC-2fth2ypR": {
+      "Nuts": "https://i.postimg.cc/FRqsXX2D/1.png",
+      "a3shap_momyza": "أملائها بأصنافك المميزة ",
+      "a3shape_tbe3ya": "https://i.ibb.co/yFKBq4W/wepik-20231202122338v-Ty3.png",
+      "a5l": "https://i.postimg.cc/PJYL6qPm/5.png",
+      "drayers": "https://i.ibb.co/qsZJqXH/4.png",
+      "lbna": "https://i.ibb.co/F3q2hHT/2.png",
+      "logo": "https://i.ibb.co/kBzCQdY/logo-salet.png",
+      "m5lel": "https://i.ibb.co/Sywvhgj/9.png",
+      "main_img": "https://i.postimg.cc/FRVKsyfC/wepik-20240108203306-ZFX8.png",
+      "mntgante_elmoksrat": "https://i.ibb.co/XS1Rdtw/1.png",
+      "mntgate_ela3shap": "https://i.ibb.co/t2hyF9c/image.png",
+      "mntgate_eltoable": "https://i.ibb.co/f8kzNhz/Whats-App-Image-2023-12-02-at-12-07-09-PM-2.jpg",
+      "mntgate_elzyote": "https://i.postimg.cc/gktctkF5/3.png",
+      "mntgate_moksrate_mmyza": "https://i.ibb.co/VCj44y2/wepik-20231202122400j8qq.png",
+      "mntgate_zyote_mmyza": "https://i.postimg.cc/fRWXmb7r/3.png",
+      "moksrat_mmyza": "أختار سلتك المفضلة ",
+      "mshklate": "https://i.ibb.co/GVKBZXc/8.png",
+      "olive": "https://i.ibb.co/3Yxmmr4/7.png",
+      "olive_oil": "https://i.ibb.co/3Yxmmr4/7.png",
+      "papers": "https://i.postimg.cc/bvvGD2R6/wepik-20240108193406c-U9a.png",
+      "toable_mmuza": "https://i.ibb.co/tCBnJxb/wepik-20231202122322-RQux.png",
+      "toapel_momyza": "هادي أحبابك ",
+      "zater": "https://i.postimg.cc/s2GSXhmp/6.png",
+      "zyot_mmyaz": "سلة المونة "
+    }
+  },
+  "products": {
+    "-NkW09sdLBdQyPyoZ1gw": {
+      "category": "زيت و زيتون",
+      "ingredients": "زيت الزيتون الأردني",
+      "main_img": "https://i.ibb.co/g7CcKy5/36.png",
+      "name": "زيت زيتون - عبوة زجاج",
+      "price": 5.5,
+      "size": "لتر 1 ",
+      "sub_img": "https://i.ibb.co/MR7vrqc/37.png"
+    },
+    "-NkW1F31OtJ1fMFLITQg": {
+      "category": "زيت و زيتون",
+      "ingredients": "منتج عضوي ينتج عن العصرة الأولى لثمار الزيتون على البارد ويحمل كافة العناصر والفوائد الغذائية مثل الفيتامينات",
+      "main_img": "https://i.ibb.co/WkNq3x9/wepik-20231130182417-Uim-B.png",
+      "name": "زيت زيتون -تنكة ",
+      "price": 60,
+      "size": "تنكة 16 لتر ",
+      "sub_img": "https://i.ibb.co/6X2dZDx/wepik-20231130162611-S8-X6.png"
+    },
+    "-NkW1FahsP9dfyYDZc9G": {
+      "category": "لبنة",
+      "ingredients": "للّبنة الجرشيّة هي جبنة طريّة مشتقة من حليب الماعز الطازج، ذات طعم مائل إلى الحموضة، ولون مائل إلى الصفرة. تُدهَن على الخبز المحمّص والسندويشات ويضاف إليها زيت الزيتون ويمكن اضافة التوابل إليها أيضا. تُعتبَر من المقبّلات وتستخدم مع سلطات الخضار والمعكرونة. ",
+      "main_img": "https://i.ibb.co/cvT0z4Y/73.png",
+      "name": "لبنة جرشية بزيت الزيتون - سادة ",
+      "price": 8,
+      "size": "كيلو ",
+      "sub_img": "https://i.ibb.co/ZMrgGy0/78.png"
+    },
+    "-NkW1GJy3Z1vNi59S3hc": {
+      "category": "لبنة",
+      "ingredients": "إن اللبنة المشتقة من السمار حليب الماعز ذات طعم مائل إلى الحموضة، ودسم أعلى، ولون مائل قليلًا إلى الصفرة. وتكون «الجرشية» في العادة ذات قوام متفاوت الصلابة على ثلاث درجات: طَريّة، ونصف طرية، وجامدة للزيت. والأخيرة تحفظ لزمن طويل ",
+      "main_img": "https://i.ibb.co/CwhJF4V/77.png",
+      "name": "لبنة جرشية بزيت الزيتون - سادة ",
+      "price": 4.5,
+      "size": "500 جرام ",
+      "sub_img": "https://i.ibb.co/6JZc5NJ/79.png"
+    },
+    "-NkW1Go_fdWkweTJSfus": {
+      "category": "لبنة",
+      "ingredients": "للّبنة الجرشيّة هي جبنة طريّة مشتقة من حليب الماعز الطازج، ذات طعم مائل إلى الحموضة، ولون مائل إلى الصفرة. تُدهَن على الخبز المحمّص والسندويشات ويضاف إليها زيت الزيتون ويمكن اضافة التوابل إليها أيضا. تُعتبَر من المقبّلات وتستخدم مع سلطات الخضار والمعكرونة. ",
+      "main_img": "https://i.ibb.co/c12GW6s/72.png",
+      "name": "لبنة جرشية بزيت الزيتون - بالشطة",
+      "price": 8,
+      "size": "كيلو ",
+      "sub_img": "https://i.ibb.co/ZMrgGy0/78.png"
+    },
+    "-NkW1P9qODtLBPGzbA16": {
+      "category": "لبنة",
+      "ingredients": "للّبنة الجرشيّة هي جبنة طريّة مشتقة من حليب الماعز الطازج، ذات طعم مائل إلى الحموضة، ولون مائل إلى الصفرة. تُدهَن على الخبز المحمّص والسندويشات ويضاف إليها زيت الزيتون ويمكن اضافة التوابل إليها أيضا. تُعتبَر من المقبّلات وتستخدم مع سلطات الخضار والمعكرونة. ",
+      "main_img": "https://i.ibb.co/hd49G9X/76.png",
+      "name": "لبنة جرشية بزيت الزيتون - بالشطة",
+      "price": 4.5,
+      "size": "500 جرام ",
+      "sub_img": "https://i.ibb.co/6JZc5NJ/79.png"
+    },
+    "-NkW1PibN0lpgfAYNpRo": {
+      "category": "لبنة",
+      "ingredients": "للّبنة الجرشيّة هي جبنة طريّة مشتقة من حليب الماعز الطازج، ذات طعم مائل إلى الحموضة، ولون مائل إلى الصفرة. تُدهَن على الخبز المحمّص والسندويشات ويضاف إليها زيت الزيتون ويمكن اضافة التوابل إليها أيضا. تُعتبَر من المقبّلات وتستخدم مع سلطات الخضار والمعكرونة. ",
+      "main_img": "https://i.ibb.co/BG0380y/74.png",
+      "name": "لبنة جرشية بزيت الزيتون - بالزعتر",
+      "price": 8,
+      "size": "كيلو ",
+      "sub_img": "https://i.ibb.co/ZMrgGy0/78.png"
+    },
+    "-NkW1R36JztdhV_p5-gI": {
+      "category": "لبنة",
+      "ingredients": "للّبنة الجرشيّة هي جبنة طريّة مشتقة من حليب الماعز الطازج، ذات طعم مائل إلى الحموضة، ولون مائل إلى الصفرة. تُدهَن على الخبز المحمّص والسندويشات ويضاف إليها زيت الزيتون ويمكن اضافة التوابل إليها أيضا. تُعتبَر من المقبّلات وتستخدم مع سلطات الخضار والمعكرونة. ",
+      "main_img": "https://i.ibb.co/VVNsjsw/75.png",
+      "name": "لبنة جرشية بزيت الزيتون - بالزعتر",
+      "price": 4.5,
+      "size": "500 جرام ",
+      "sub_img": "https://i.ibb.co/6JZc5NJ/79.png"
+    },
+    "-NkW1RcEevhqAJB4l0w4": {
+      "category": "مشكلات",
+      "ingredients": "هو منتج اردني طبيعي من عجلون فلفل كرزي احمر مخلل مسبقا يفرغ من البذور ويصفى من ماء التخليل ويعبأ باللبنه الجامده المجهزه مسبقا ويصف في عبوات زجاجيه ويغمر بزيت الززيتون",
+      "main_img": "https://i.ibb.co/hHL037T/69.png",
+      "name": "فلفل كرزي - محشي لبنة ",
+      "price": 4.5,
+      "size": "500 جرام ",
+      "sub_img": "https://i.ibb.co/31PnP3N/71.png"
+    },
+    "-NkW1Su8r03i3AhTZ0Fe": {
+      "category": "مشكلات",
+      "ingredients": "ثوم بزيت الزيتون هذا الطعام لا تنتهي صلاحيته",
+      "main_img": "https://i.ibb.co/PmbrxPM/68.png",
+      "name": "ثوم بزيت الزيتون عادي",
+      "price": 5,
+      "size": "500 جرام ",
+      "sub_img": "https://i.ibb.co/31PnP3N/71.png"
+    },
+    "-NkW1TSqCrkdpwN-VWI8": {
+      "category": "مشكلات",
+      "ingredients": "ثوم بزيت الزيتون هذا الطعام لا تنتهي صلاحيته",
+      "main_img": "https://i.ibb.co/x1hbHdY/67.png",
+      "name": "ثوم بزيت الزيتون حار",
+      "price": 5,
+      "size": "500 جرام ",
+      "sub_img": "https://i.ibb.co/31PnP3N/71.png"
+    },
+    "-NkW1Tz6g4C5J7iBGwi5": {
+      "category": "زيت و زيتون",
+      "ingredients": "زيتون محشي لبنة مشوي",
+      "main_img": "https://i.ibb.co/0MRZr9P/61.png",
+      "name": "زيتون محشي لبنة مشوي",
+      "price": 4.5,
+      "size": "500 جرام ",
+      "sub_img": "https://i.ibb.co/yP5WWpC/62.png"
+    },
+    "-NkW1URiHYwcC-GF5Ztb": {
+      "category": "زيت و زيتون",
+      "ingredients": "",
+      "main_img": "https://i.ibb.co/JC3brd6/66.png",
+      "name": "زيتون اخضر محشي لبنة",
+      "price": 4.5,
+      "size": "500 جرام ",
+      "sub_img": "https://i.ibb.co/31PnP3N/71.png"
+    },
+    "-NkWBB30oxvRYM1g9dqw": {
+      "category": "زيت و زيتون",
+      "ingredients": "",
+      "main_img": "https://i.ibb.co/VvsRtV1/60.png",
+      "name": "زيتون أسود محشي لبنة",
+      "price": 4.5,
+      "size": "500 جرام ",
+      "sub_img": "https://i.ibb.co/31PnP3N/71.png"
+    },
+    "-NkWBBEDCIGgw_at7d-w": {
+      "category": "مشكلات",
+      "ingredients": "",
+      "main_img": "https://i.ibb.co/GHRgCLX/63.png",
+      "name": "سلطة فلفل ",
+      "price": 4.5,
+      "size": "500 جرام ",
+      "sub_img": "https://i.ibb.co/31PnP3N/71.png"
+    },
+    "-NkWBtAi-4JLBqn7JiWy": {
+      "category": "مخلل",
+      "ingredients": "",
+      "main_img": "https://i.ibb.co/h7Nyvj7/22.png",
+      "name": "بيبي خيار ",
+      "price": 2,
+      "size": "500 جرام ",
+      "sub_img": "https://i.ibb.co/m68yrYj/wepik-20231130171756fbja.png"
+    },
+    "-NkWC8HrgcNFixyQbv4Z": {
+      "category": "مخلل",
+      "ingredients": "",
+      "main_img": "https://i.ibb.co/6Dn4fjS/23.png",
+      "name": "فلفل هالابينو  ",
+      "price": 4.5,
+      "size": "500 جرام ",
+      "sub_img": "https://i.ibb.co/31PnP3N/71.png"
+    },
+    "-NkWC8NVtH7ELsg1OA9_": {
+      "category": "مشكلات",
+      "ingredients": "سلطة مكسرات بزيت الزيتون والذرة ",
+      "main_img": "https://i.ibb.co/gwZtBbG/64.png",
+      "name": "سلطة مكسرات بزيت الزيتون والذرة ",
+      "price": 4.5,
+      "size": "500 جرام ",
+      "sub_img": "https://i.ibb.co/31PnP3N/71.png"
+    },
+    "-NkWCFoZCmgstqz8RuXZ": {
+      "category": "مربي و عسل و حلاوة",
+      "ingredients": "حلاوة طحينية من نابلس إلي العالم ",
+      "main_img": "https://i.postimg.cc/MTxmxhWC/16.png",
+      "name": "حلاوة طحينية ",
+      "price": 2,
+      "size": "كيلو ",
+      "sub_img": ""
+    },
+    "-NkWEdsok-ORYVchbEYu": {
+      "category": "زيت و زيتون",
+      "ingredients": "مخلل الزيتون الأخضر الفلسطيني  هذا الزيتون من أشجار الزيتون البعلية القديمة نبالي ورومي ، يتم تحضيرها وتكسيرها بالطريقة الفلسطينية الأصيلة ،",
+      "main_img": "https://i.ibb.co/xgxVPQS/wepik-20231130162714g-GTn.png",
+      "name": "زيتون اخضر - فلسطيني ",
+      "price": 2.25,
+      "size": "500 جرام ",
+      "sub_img": "https://i.ibb.co/m68yrYj/wepik-20231130171756fbja.png"
+    },
+    "-NkWGzBL38TBfYvO7EQx": {
+      "category": "مشكلات",
+      "ingredients": "يعتبر المقدوس من الأكلات والمقبلات الأساسية ويمتاز المكدوس بحشوة الجوز، وغمره بزيت الزيتون،",
+      "main_img": "https://i.ibb.co/9sGTCHG/70.png",
+      "name": "مكدوس - عادي",
+      "price": 4.5,
+      "size": "500 جرام ",
+      "sub_img": "https://i.ibb.co/31PnP3N/71.png"
+    },
+    "-NkWMj3W5a00Ur0SlQeU": {
+      "category": "لبنة",
+      "ingredients": "تصنع من حليب الغنم أو خليط حليب الغنم وحليب الماعز (الغنم السّمار). تضاف إليه عادةً حبة البركة بعد غليه لحفظه. عند الغلي، يضاف المستكة والمحلب في ماء الغلي المالح لإعطاء الجبن نكهة خاصة. ",
+      "main_img": "https://i.ibb.co/LCMb7Hv/17.png",
+      "name": "جبن نابلسي -خالية من الغلوتين  ",
+      "price": 5.5,
+      "size": "500 جرام ",
+      "sub_img": "https://i.ibb.co/dbGm0H5/18.png"
+    },
+    "-NkWN9uuptt-dUm88cpC": {
+      "category": "جميدوسمن",
+      "ingredients": "ويتم صنعه من حليب الغنم الذى يحتوي على نسبة كبيرة من البروتينات والكالسيوم ، فلذلك يعد منتج سمن الغنم البلدي من أفضل أنواع السمن المضمونة-يصلح لنظام الكيتو دايت  هو نظام غذائي صحي يعتمد على دهون الجسم كطاقة بدليلة  ",
+      "main_img": "https://i.ibb.co/1JJD6kX/19.png",
+      "name": "دهن - سمن غنم ",
+      "price": 8.5,
+      "size": "500 جرام ",
+      "sub_img": "https://i.ibb.co/71S4m7P/20.png"
+    },
+    "-NkWNF3vQTHmeC8Z7vVT": {
+      "category": "مشكلات",
+      "ingredients": "",
+      "main_img": "https://i.ibb.co/C2vZqhk/34.png",
+      "name": "شطة بلدي بزيت الزيتون ",
+      "price": 2,
+      "size": "250 جرام ",
+      "sub_img": "https://i.ibb.co/ssJ1rwH/35.png"
+    },
+    "-NkWQVBY3OdyBCGcmIuT": {
+      "category": "خل و دبس",
+      "ingredients": "تقليل الاضطرابات الهضمية مثل: نوبات الإمساك، والتهاب المعدة. تخفيف آلام الولادة. تعزيز إنتاج الحليب خلال الرضاعة. تقوية الدم. خفض نسبة السكر في الدم",
+      "main_img": "https://i.ibb.co/QJnZcgt/58.png",
+      "name": "خل تمر ",
+      "price": 5,
+      "size": "500 جرام ",
+      "sub_img": "https://i.ibb.co/Tr3spp0/57.png"
+    },
+    "-NkWQVM1tZpMAAViRriy": {
+      "category": "خل و دبس",
+      "ingredients": "يتكون خل التفاح من 94% ماء و1% سكريات، ولكنه لا يحتوي على أي دهون أو بروتينات. يوفر خل التفاح ما يقارب 220 سعرة حرارية في اللتر",
+      "main_img": "https://i.ibb.co/485YZLV/59.png",
+      "name": "خل تفاح ",
+      "price": 5,
+      "size": "500 جرام ",
+      "sub_img": "https://i.ibb.co/Tr3spp0/57.png"
+    },
+    "-NkWQWEUBj20b9Qj9WSc": {
+      "category": "خل و دبس",
+      "ingredients": "خل العنب هو أحد أنواع المنتجات الغذائية المشتقّة من العنب يساهم خل العنب بنسبة كبيرة في حماية الكليتين - يحافظ خل العنب على صحة الكبد وتنشيط وظائفه ",
+      "main_img": "https://i.ibb.co/KcZ0tPs/56.png",
+      "name": "خل عنب ",
+      "price": 5,
+      "size": "500 جرام ",
+      "sub_img": "https://i.ibb.co/Tr3spp0/57.png"
+    },
+    "-NkWQWLl0ZPvBC1ldg93": {
+      "category": "لبنة",
+      "ingredients": "يجب تحلية الجبن عن طريق الغلي في الماء العذب، حيث يتم حفظ الجبن باتباع طرق الحفظ القديمة في الملح (بدون مواد حافظة أو مواد كيميائية). لا يمكن تناوله كما هو ويجب غليه قبل تناوله للتخلص منه من الملح الإضافي. ينتج من الغليان الجبن لفترات طويلة الجبن الحلو.",
+      "main_img": "https://i.ibb.co/mq4SBPY/Whats-App-Image-2023-03-03-at-10-47-06-AM.jpg",
+      "name": "جبن نابلسي - مغلية",
+      "price": 22,
+      "size": "تنكة ",
+      "sub_img": "https://i.ibb.co/dbGm0H5/18.png"
+    },
+    "-NkWUII05sv1d-Ra7Rv9": {
+      "category": "خل و دبس",
+      "ingredients": "القزحة هو معجون أو عجين أسود اللون يستخلص من بذور نبتة حبة البركة بطريقة تشبه استخلاص الطحينة من السمسم. تشتهر مدينة نابلس باستخلاصه.",
+      "main_img": "https://i.ibb.co/WthVFnG/50.png",
+      "name": "معجون الحبة السوداء - قزحة ",
+      "price": 4.5,
+      "size": "عبوة ",
+      "sub_img": "https://i.ibb.co/Rhf7JNd/51.png"
+    },
+    "-NkWUJsFHeyqtbm4fpim": {
+      "category": "خل و دبس",
+      "ingredients": "البديل الطبيعي للسكر ",
+      "main_img": "https://i.ibb.co/9nDhCqG/54.png",
+      "name": "دبس خروب بلدي",
+      "price": 4.5,
+      "size": "500 جرام ",
+      "sub_img": "https://i.ibb.co/gZqDNCn/55.png"
+    },
+    "-NkWVVZTQAZ1LO5x3BWQ": {
+      "category": "زعتر",
+      "ingredients": "زعتر الأحمر ",
+      "main_img": "https://i.ibb.co/51yykfz/48.png",
+      "name": " دقة غزاوية",
+      "price": 3,
+      "size": "عبوة ",
+      "sub_img": "https://i.ibb.co/x2ww86H/49.png"
+    },
+    "-NkWVVdwEwK_OGa5Qlzs": {
+      "category": "زعتر",
+      "ingredients": "بالسمسم والسماق ",
+      "main_img": "https://i.ibb.co/z7rtHDm/46.png",
+      "name": "زعتر فلسطيني",
+      "price": 3,
+      "size": "عبوة ",
+      "sub_img": "https://i.ibb.co/qJVghLh/47.png"
+    },
+    "-NkWVVyuB7aX2WtmNoDg": {
+      "category": "مربي و عسل و حلاوة",
+      "ingredients": "",
+      "main_img": "https://i.ibb.co/KKShKhh/52.png",
+      "name": " طحينية علي الحجر -  أردنية",
+      "price": 4,
+      "size": "عبوة ",
+      "sub_img": "https://i.ibb.co/4fZDmVL/53.png"
+    },
+    "-NkeDIY1gMh-AFJOidEt": {
+      "category": "مكسرات",
+      "ingredients": "",
+      "main_img": "https://i.ibb.co/JnG6Yxg/25.png",
+      "name": "زبيب أشقر حبة صغيرة ",
+      "price": 1.5,
+      "size": "500 جرام ",
+      "sub_img": "https://i.ibb.co/DrmcP2H/26.png"
+    },
+    "-NkeEVESA2GvSDmcqL5Y": {
+      "category": "مربي و عسل و حلاوة",
+      "ingredients": "",
+      "main_img": "https://i.ibb.co/pQbbn0L/14.png",
+      "name": "مربي باذنجان ",
+      "price": 3,
+      "size": "عبوة ",
+      "sub_img": "https://i.ibb.co/Kb4C3J5/15.png"
+    },
+    "-NkeEVlWvABf6-xEXG2t": {
+      "category": "مربي و عسل و حلاوة",
+      "ingredients": "",
+      "main_img": "https://i.postimg.cc/0jJPK7rq/12.png",
+      "name": "مربي تين ",
+      "price": 3,
+      "size": "عبوة ",
+      "sub_img": "https://i.ibb.co/Kb4C3J5/15.png"
+    },
+    "-NkeF2Y-toZYF3_FQhML": {
+      "category": "مربي و عسل و حلاوة",
+      "ingredients": "",
+      "main_img": "https://i.ibb.co/j59WN1H/13.png",
+      "name": "مربي توت ",
+      "price": 3,
+      "size": "عبوة ",
+      "sub_img": "https://i.ibb.co/Kb4C3J5/15.png"
+    },
+    "-NkeF2bMvZTB1c-5iqp7": {
+      "category": "مربي و عسل و حلاوة",
+      "ingredients": "",
+      "main_img": "https://i.ibb.co/GkJx1pW/10.png",
+      "name": "مربي مشمش",
+      "price": 3,
+      "size": "عبوة ",
+      "sub_img": "https://i.ibb.co/Kb4C3J5/15.png"
+    },
+    "-NkeF2oJBspDrjCo8XmV": {
+      "category": "مجففات و ورقيات",
+      "ingredients": "",
+      "main_img": "https://i.ibb.co/Wvn4Zts/8.png",
+      "name": "قمر الدين - مسكتة ",
+      "price": 3,
+      "size": "عبوة ",
+      "sub_img": "https://i.ibb.co/b1GGQ7w/9.png"
+    },
+    "-NkeF4jv1qnWpUT9mTI3": {
+      "category": "مربي و عسل و حلاوة",
+      "ingredients": "",
+      "main_img": "https://i.ibb.co/LhSXRLD/32.png",
+      "name": "عسل نحل طبيعي",
+      "price": 8,
+      "size": "كيلو",
+      "sub_img": "https://i.ibb.co/d6vztVm/33.png"
+    },
+    "-NkeVpVqt7fq06pwcAep": {
+      "category": "مجففات و ورقيات",
+      "ingredients": "",
+      "main_img": "https://i.ibb.co/G91LxLB/7.png",
+      "name": "ميرامية ورق",
+      "price": 1,
+      "size": "عبوة ",
+      "sub_img": "https://i.ibb.co/2577vpt/Whats-App-Image-2023-03-19-at-9-07-33-PM-1.jpg"
+    },
+    "-NkeVuvWUa51Wlw2DBrc": {
+      "category": "مجففات و ورقيات",
+      "ingredients": "",
+      "main_img": "https://i.ibb.co/nbvpzkb/3.png",
+      "name": "لومي -ليمون مجفف",
+      "price": 1.5,
+      "size": "عبوة ",
+      "sub_img": "https://i.ibb.co/RSmnYqj/4.png"
+    },
+    "-Nke_sQxYURELh8k1rfZ": {
+      "category": "جميدوسمن",
+      "ingredients": "",
+      "main_img": "https://i.ibb.co/gSc8Twx/40.png",
+      "name": "جميد كركي",
+      "price": 9,
+      "size": "كيلو ",
+      "sub_img": "https://i.ibb.co/GFhfb2p/41.png"
+    },
+    "-NkeaOuaPBBF2rPyROyS": {
+      "category": "مجففات و ورقيات",
+      "ingredients": " ",
+      "main_img": "https://i.ibb.co/9Zzzcfn/44.png",
+      "name": "بهارات خشنة مشكلة",
+      "price": 2.5,
+      "size": "عبوة ",
+      "sub_img": "https://i.ibb.co/9tdcs0n/45.png"
+    },
+    "-Nl51zaxOVbrUVZgVXAW": {
+      "category": "زيت و زيتون",
+      "ingredients": "",
+      "main_img": "https://i.postimg.cc/gJSz2hWm/21.png",
+      "name": "زيتون مشوي ",
+      "price": 4.5,
+      "size": "500 جرام ",
+      "sub_img": "https://i.ibb.co/31PnP3N/71.png"
+    },
+    "-NmXN_mjPH265FS0UBwB": {
+      "category": "زيت و زيتون",
+      "ingredients": "",
+      "main_img": "https://i.ibb.co/YQypF1V/wepik-20231225190634k-SP3.png",
+      "name": "زيت زيتون - بلاستك",
+      "price": 4.5,
+      "size": "1000 جرام",
+      "sub_img": "https://i.ibb.co/xfQvfnm/3.png"
+    },
+    "-NmbjrcwI6QseY3ASJku": {
+      "category": "زعتر",
+      "ingredients": "زعتر ورق للشاي ",
+      "main_img": "https://i.ibb.co/18f6fVv/Whats-App-Image-2023-12-02-at-12-07-09-PM-5.jpg",
+      "name": "زعتر ورق ",
+      "price": 1,
+      "size": "عبوة",
+      "sub_img": ""
+    },
+    "-NmbkHQU-h6TG-Ne8fcx": {
+      "category": "زعتر",
+      "ingredients": "زعتر بلدي مفروك بزيت الزيتون ",
+      "main_img": "https://i.postimg.cc/zBT1J8QJ/6.png",
+      "name": "زعتر بلدي",
+      "price": 1,
+      "size": "عبوة",
+      "sub_img": ""
+    },
+    "-NnTZdc5XwXGhCQf0H9G": {
+      "category": "جميدوسمن",
+      "ingredients": "",
+      "main_img": "https://i.postimg.cc/0QDyvykf/41.png",
+      "name": "جميد وزن ",
+      "price": 6.5,
+      "size": "650 جرام",
+      "sub_img": ""
+    },
+    "-NnTZeKMOiIei6qrurvc": {
+      "category": "زعتر",
+      "ingredients": "",
+      "main_img": "https://i.postimg.cc/yNfGvwwy/wepik-20240117210421-BYNq.png",
+      "name": "سماق أردني ",
+      "price": 1,
+      "size": "500 جرام ",
+      "sub_img": ""
+    },
+    "-NnTZfhZ3JzBEi6dFs5G": {
+      "category": "مكسرات",
+      "ingredients": "حيث يضفي لمسة من الفخامة على وجباتك. جودة عالية، خالية من الغلوتين، ومصدر غني بالفيتامينات والمعادن.",
+      "main_img": "https://i.postimg.cc/Px2NZVN5/wepik-20240125113230d30u.png",
+      "name": "صنوبر ",
+      "price": 5.5,
+      "size": "500 جرام ",
+      "sub_img": ""
+    },
+    "-NnTaocINPUI8bBCBqPS": {
+      "category": "جميدوسمن",
+      "ingredients": "",
+      "main_img": "https://i.ibb.co/gSc8Twx/40.png",
+      "name": "جميد كركي ",
+      "price": 5,
+      "size": "500 جرام ",
+      "sub_img": ""
+    },
+    "-NneuFJypBHhx9A7dKLW": {
+      "category": "مربي و عسل و حلاوة",
+      "ingredients": "",
+      "main_img": "https://i.postimg.cc/KYMWpSzB/31.png",
+      "name": "عسل نحل بعشب البحر",
+      "price": 10.5,
+      "size": "500 جرام ",
+      "sub_img": ""
+    },
+    "-NneuFQ6zpYfJIMabtjB": {
+      "category": "مكسرات",
+      "ingredients": "",
+      "main_img": "https://i.postimg.cc/T1Zmnj9j/2.png",
+      "name": "جوز مقشر",
+      "price": 2.25,
+      "size": "",
+      "sub_img": ""
+    },
+    "-NnjQ30XVDmuAlvOHttl": {
+      "category": "مجففات و ورقيات",
+      "ingredients": "",
+      "main_img": "https://i.postimg.cc/J7H08m7v/wepik-20240117210201-GTJy.png",
+      "name": "فريكا مجففة خضراء ",
+      "price": 2,
+      "size": "500 جرام ",
+      "sub_img": ""
+    },
+    "-NnjQ31-xVRPiZMoqp2o": {
+      "category": "مكسرات",
+      "ingredients": "",
+      "main_img": "https://i.postimg.cc/7h6GkT62/26.png",
+      "name": "زبيب أشقر حبة صغيرة ",
+      "price": 3.25,
+      "size": "كيلو",
+      "sub_img": ""
+    },
+    "-NnjQ356cFg8Jfk-afZR": {
+      "category": "مجففات و ورقيات",
+      "ingredients": "•\tيحتوي على نسبة كبيرة من الألياف التي تعمل على زيادة الشعور بالشبع. كما أن مذاقه الحلو يجعله خياراً صحيًا بسعرات حرارية أقل من السكريات.",
+      "main_img": "https://i.postimg.cc/fbzMpQk3/42.png",
+      "name": "قطين - تين مجفف",
+      "price": 3.5,
+      "size": "500 جرام ",
+      "sub_img": ""
+    },
+    "-NnjQR0k5yC-PEUQI6FI": {
+      "category": "زيت و زيتون",
+      "ingredients": "",
+      "main_img": "https://i.postimg.cc/QxZJhYX8/wepik-202401091807178p1-H.png",
+      "name": "زيت وزيتون ",
+      "price": 0,
+      "size": "كيلو",
+      "sub_img": ""
+    },
+    "-NnjQRETWvaKaq0v1nJ1": {
+      "category": "مجففات و ورقيات",
+      "ingredients": "غني باليود ، وهو مفيد للغدة الدرقية. إنه شكل من أشكال اليود يمكن للجسم امتصاصه بسهولة ، ويحتوي على الكثير من المعادن النادرة الأخرى. لكن له أيضًا العديد من الفوائد التي تتجاوز دعم الغدة الدرقية.",
+      "main_img": "https://i.postimg.cc/Dyy6cfL6/29.png",
+      "name": "عشب بحر ",
+      "price": 8.5,
+      "size": "50 جرام",
+      "sub_img": ""
+    },
+    "-Np-4atAu_kM7O1I_xUQ": {
+      "category": "مجففات و ورقيات",
+      "ingredients": "",
+      "main_img": "https://i.postimg.cc/g2qmvDW1/wepik-20240117210437ogsk.png",
+      "name": "حب رمان مجفف",
+      "price": 2.5,
+      "size": "500 جرام ",
+      "sub_img": ""
+    },
+    "-Np-CkJobcyeuXhTEoSp": {
+      "category": "مكسرات",
+      "ingredients": "",
+      "main_img": "https://i.postimg.cc/V6Z2XzFH/wepik-20240125111641hn-IB.png",
+      "name": "جوز بلدي فرك",
+      "price": 1.5,
+      "size": "500 جرام ",
+      "sub_img": ""
+    }
+  }
+}
