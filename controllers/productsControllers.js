@@ -64,7 +64,10 @@ exports.deleteTour = async (req,res,next)=>{
 
 exports.createNewTour = async (req,res,next)=>{
     try{
+        console.log(1) 
         const product = await Product.create(req.body)
+        console.log(req.body) 
+        
         if(req.files){
             if(req.files.main_img[0]){
                 product.main_img = req.files.main_img[0].filename
@@ -97,7 +100,6 @@ exports.updateTour = async (req,res,next)=>{
         if(req.files){
             if(req.files.main_img){
                 if(req.files.main_img[0]){
-
                     product.main_img = req.files?.main_img[0].filename
                 }
             }

@@ -87,6 +87,7 @@ exports.login = async (req, res, next) => {
 
 exports.signUp = async (req, res, next) => {
     try {
+        
         if (!req.body.password) {
             throw 'Please provide a password.';
         }

@@ -8,7 +8,7 @@ dotenv.config({ path: './config.env' });
 
 
 
-mongoose.connect(process.env.DB).then(() => console.log('DB connection successfully'));
+mongoose.connect('mongodb+srv://rafatkamel96:rafat@cluster0.nbyepve.mongodb.net/').then(() => console.log('DB connection successfully'));
 
 
 // READ JSON FILE

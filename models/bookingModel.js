@@ -50,10 +50,10 @@ bookingSchema.pre(/^find/, function(next) {
 bookingSchema.pre('save', async function(next){
     this.products.forEach(async element => {
         const product =  await Products.findById(element.product._id)
-        if(product){
-            product.purchaseCount+=element.quantity
-            await product.save() 
-        }
+        // if(product){
+        //     product.purchaseCount+=element.quantity
+        //     await product.save() 
+        // }
     });
     next()
 })
